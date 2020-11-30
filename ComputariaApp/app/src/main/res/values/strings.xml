@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Computaria App</string>
+    <string name="bt_joga">Jogador(a)</string>
+    <string name="bt_torce">Torcedor(a)</string>
+    <string name="bt_intent1">Instagram</string>
+    <string name="bt_intent2">Youtube</string>
+    <string name="login">Login</string>
+    <string name="txt1">Nome:</string>
+    <string name="txt2">Devido ao momento de
+        pandemia o calendário
+        de jogos foi totalmente
+        parado!!
+        Mas você pode nos
+        acompanhar em nossas
+        Redes Sociais:
+    </string>
+    <string name="txt3">Bem Vindo!!</string>
+    <string name="txt5">Escolha um favorito entre Futsal, Vôlei, Basquete, Handebol e receba notificações!!</string>
+    <string name="txt6">Senha:</string>
+    <string name="txt7">Você é:</string>
+    <string name="txt8">Que tal baixar nosso wallpaper?</string>
+    <string name="txt9">Saiba quando e onde serão o jogos do Computaria</string>
+    <string name="textNome">Insira seu nome</string>
+    <string name="txt4">E-mail:</string>
+    <string name="textEmail">Insira seu e-mail</string>
+    <string name="textSen">Insira sua senha</string>
+    <string name="btn1">Entrar</string>
+    <string name="editEsporte">Insira o esporte</string>
+    <string name="btnGravar">Gravar</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnRecuperar">Recuperar</string>
+    <string name="btnImg">Baixe aqui</string>
+    <string name="txtEndereco">Saiba como chegar na La Bgnera, o estadio do Computaria</string>
+    <string name="btnEndereco">Clicando aqui</string>
+</resources>
